@@ -6,7 +6,7 @@ This repository presents a Smart Manufacturing CAPEX Dashboard developed in Powe
 
 ---
 
-## 1. Application Overview
+## 1. Overview
 
 The Smart Manufacturing CAPEX Dashboard enables stakeholders to monitor planned vs actual capital expenditures, track project performance, and support data-driven financial decision-making across manufacturing initiatives.
 
