@@ -1,1 +1,2 @@
-# Smart-Manufacturing-CAPEX-Dashboard
+# Smart Manufacturing CAPEX Dashboard
+
